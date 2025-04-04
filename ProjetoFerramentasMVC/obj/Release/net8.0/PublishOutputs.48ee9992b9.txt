@@ -1,0 +1,7 @@
+C:\Users\Felipe UniFTEC\Desktop\TRABALHO DUDU\ADS - SENAI\MVC\MVCFerramentas\ProjetoFerramentasMVC\bin\Release\net8.0\publish\ProjetoFerramentasMVC.exe
+C:\Users\Felipe UniFTEC\Desktop\TRABALHO DUDU\ADS - SENAI\MVC\MVCFerramentas\ProjetoFerramentasMVC\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\Felipe UniFTEC\Desktop\TRABALHO DUDU\ADS - SENAI\MVC\MVCFerramentas\ProjetoFerramentasMVC\bin\Release\net8.0\publish\appsettings.json
+C:\Users\Felipe UniFTEC\Desktop\TRABALHO DUDU\ADS - SENAI\MVC\MVCFerramentas\ProjetoFerramentasMVC\bin\Release\net8.0\publish\ProjetoFerramentasMVC.dll
+C:\Users\Felipe UniFTEC\Desktop\TRABALHO DUDU\ADS - SENAI\MVC\MVCFerramentas\ProjetoFerramentasMVC\bin\Release\net8.0\publish\ProjetoFerramentasMVC.deps.json
+C:\Users\Felipe UniFTEC\Desktop\TRABALHO DUDU\ADS - SENAI\MVC\MVCFerramentas\ProjetoFerramentasMVC\bin\Release\net8.0\publish\ProjetoFerramentasMVC.runtimeconfig.json
+C:\Users\Felipe UniFTEC\Desktop\TRABALHO DUDU\ADS - SENAI\MVC\MVCFerramentas\ProjetoFerramentasMVC\bin\Release\net8.0\publish\ProjetoFerramentasMVC.pdb

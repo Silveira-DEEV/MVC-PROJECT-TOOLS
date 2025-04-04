@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "ProjetoFerramentasMVC\\bin\\Release\\net8.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/5e30917f-ae33-4951-af0e-7d01e510b199/resourceGroups/Deploy-SENAI/providers/Microsoft.Web/sites/Ferramentas"
+}
